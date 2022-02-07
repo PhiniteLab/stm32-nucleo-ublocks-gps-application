@@ -1,0 +1,15 @@
+ubloxNeoM8nGpsParameters.hpp:131:2:ublox_neo_m8n_gps_parameters::ublox_neo_m8n_gps_parameters(UART_HandleTypeDef*)	16	static
+ubloxNeoM8nGpsParameters.hpp:184:7:void ublox_neo_m8n_gps_parameters::get_gps_message()	24	static
+ubloxNeoM8nGpsParameters.hpp:357:7:void ublox_neo_m8n_gps_parameters::execute_nav_class_packages()	16	static
+ubloxNeoM8nGpsParameters.hpp:381:7:void ublox_neo_m8n_gps_parameters::execute_pvt_package()	16	static
+ubloxNeoM8nGpsParameters.hpp:437:7:void ublox_neo_m8n_gps_parameters::calculate_checksum_value(uint8_t*, uint8_t)	32	static
+ubloxNeoM8nGpsParameters.hpp:453:7:void ublox_neo_m8n_gps_parameters::start_communication_with_gps_via_dma()	16	static
+phiMainStart.cpp:16:5:int main()	8	static
+phiMainStart.cpp:44:6:void SystemClock_Config()	216	static
+phiMainStart.cpp:96:13:void MX_UART4_Init()	8	static
+phiMainStart.cpp:126:13:void MX_USART3_UART_Init()	8	static
+phiMainStart.cpp:154:13:void MX_DMA_Init()	16	static
+phiMainStart.cpp:174:13:void MX_GPIO_Init()	56	static
+phiMainStart.cpp:227:6:void Error_Handler()	4	static
+phiMainStart.cpp:230:1:void __static_initialization_and_destruction_0(int, int)	16	static
+phiMainStart.cpp:230:1:cpp)	8	static
