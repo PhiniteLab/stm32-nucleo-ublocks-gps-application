@@ -53,7 +53,7 @@ On the STM side, reading is done with DMA from the UART4 port. Baudrate is set t
 
 
 <p align="center">
-  <img src="images/Result.png">
+  <img src="images/Result.PNG">
 </p>
 
 
